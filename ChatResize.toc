@@ -1,0 +1,7 @@
+## Interface: 100100
+## Title: Chat Resize
+## Notes: Show chat resize button
+## DefaultState: Enabled
+## Author: Смердокрыл
+
+ChatResize.lua
