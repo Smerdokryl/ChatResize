@@ -1,6 +1,7 @@
 ## Interface: 100100
 ## Title: Chat Resize
 ## Notes: Show chat resize button
+## IconTexture: Interface\ChatFrame\ui-chatim-sizegrabber-highlight.blp
 ## DefaultState: Enabled
 ## Author: Смердокрыл
 
